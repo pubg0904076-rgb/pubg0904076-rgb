@@ -17,10 +17,10 @@ public class Pradeep {
 
     String name         = "Pradeep A";
     String location     = "Coimbatore, Tamil Nadu, India 🇮🇳";
-    String degree       = "B.E / B.Tech in [YOUR_DEGREE]";  // 🔧 Edit this
-    String college      = "[YOUR_COLLEGE_NAME]";            // 🔧 Edit this
-    String year         = "[YOUR_YEAR / GRADUATION_YEAR]";  // 🔧 Edit this
-    String cgpa         = "[YOUR_CGPA]";                    // 🔧 Edit this
+    String degree       = "B.SC  in [COMPUTER TECHNOLOGY]"; 
+    String college      = "KPR CAS";  
+    String year         = "[2 ND SEM ]";  
+    String cgpa         = "[TRUST IN TALENT]";  
 
     String[] stack = {
         "Java", "Spring Boot", "React",
