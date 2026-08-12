@@ -167,17 +167,7 @@ public class Pradeep {
 
 ---
 
-## 🎓 Education
 
-<div align="center">
-
-| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
-|-----------|---------------|---------|----------|
-| B.E / B.Tech in [Branch] | [Your College Name], Coimbatore | [Start] – [End] | [CGPA] / 10 |
-| HSC (12th) | [School Name] | [Year] | [%] % |
-| SSLC (10th) | [School Name] | [Year] | [%] % |
-
-</div>
 
 ---
 
